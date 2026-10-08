@@ -1,0 +1,6 @@
+{
+  "name": "Algorithm Visualizer",
+  "description": "An interactive learning platform that helps computer science students understand algorithms through step-by-step visualizations, code synchronization, and challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
